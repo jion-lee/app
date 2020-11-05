@@ -86,4 +86,4 @@ hystrix:
 
 api:
   url:
-    pay: http://pay:8080
+    pay: ${configurl}
